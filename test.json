@@ -1,0 +1,10 @@
+[
+    {
+        "front": "Gives a placeholder name to a type that is used as part of a protocol",
+        "back": "associatedtype(typealias is sometimes used to declare the concrete type, but Swifts type inference doesn't require it)"
+    },
+    {
+        "front": " General-purose, flexible construct that becomes the building blocks of a program.",
+        "back": "class"
+    }
+]
