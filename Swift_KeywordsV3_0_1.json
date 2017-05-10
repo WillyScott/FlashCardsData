@@ -53,7 +53,7 @@
     },
     {
         "front": "Special symbol of phase that you use to check, change, or combine values.",
-        "back": "operator - like  '-', '+', \"&&\", ternary conditional "
+        "back": "operator - like  '-', '+', '&&', ternary conditional "
     },
     {
         "front": "Access control construct that allows entites to be scoped to it defining declaration",
