@@ -4,7 +4,7 @@
         "back": "associatedtype ( keyword typealias is sometimes used to declare the concrete type, but Swifts type inference doesn't require it)"
     },
     {
-        "front": "General-pupose, flexible construct that becomes the building blocks of a program. With features like inheritance, type casting, deinitializers, and reference counting.",
+        "front": "General-purpose, flexible construct that becomes the building blocks of a program. With features like inheritance, type casting, deinitializers, and reference counting.",
         "back": "Class"
     },
     {
