@@ -1,0 +1,47 @@
+{ "cards": [
+    {
+        "front": "intrinsic content size",
+        "back": "Every view has one in the vertical and horizontal direction"
+    },
+    {
+        "front": "If you do not specify constraints on a view that explicitly determine the width or height. ",
+        "back": "The view will derive its width or height from it intrinsic content size"
+    },
+    {
+        "front": "Implicit constraints are derived from a views.",
+        "back": "content hugging priorities and content compression resistance priorities."
+    },
+    {
+        "front": "4 content priorities are.",
+        "back": "horizontal content hugging priority, vertical content hugging priority, horizontal content compression resistance priority, vertical content compression resistance priority"
+    },
+    {
+        "front": "Content hugging and compression priorities can range in value from:",
+        "back": "0 to 1000"
+    },
+    {
+        "front": "Content hugging priorities",
+        "back": "how much a view resists getting bigger that is intrinsic content size"
+    },
+    {
+        "front": "Content compression priorities",
+        "back": "How much a view resists getting smaller than its intrinsic content size"
+    },
+    {
+        "front": "A content hugging priority of 1000 means",
+        "back": "View cannot get bigger that is intrinsic content size on that dimension(vertical or horizontal)."
+    },
+    {
+        "front": "A content compression priority of 1000 means",
+        "back": "View cannot get smaller that is intrinsic content size on that dimension."
+    },
+    {
+        "front": "Ambiguous layout occurs when between 2 views.",
+        "back": "If the priority is the same."
+    },
+    {
+        "front": "Content priorities can be accessed in the applicable views",
+        "back": "Size inspector."
+    }
+]
+}
