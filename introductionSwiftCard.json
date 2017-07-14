@@ -1,0 +1,31 @@
+{ "cards": [
+    {
+        "front": "Welcome to Swiftcard. This card is the front of the cards.  Tap the screen to see the back of the card.  After reviewing the back of the card swipe left to go to the next card.",
+        "back": "This is the back of the flash card which is a different color than the front and should be the answer of the front flashcards.  Tap the screen to return to the front card."
+    },
+    {
+        "front": "If the card is know swipe up to mark the card as know.  Text displaying \"Know it.\" will be displayed on the card. Swiping down will remove \"Know it.\".",
+        "back": "Cards marked \"Know it.\" will not be displayed the next time Swiftcards is played."
+    },
+    {
+        "front": "A flashcard set is created by pressing the \"+\" in the main screen navigation bar.",
+        "back": "\"Set Name:\" and \"Set Description.\" are required fields."
+    },
+    {
+        "front": "In the new flashcard set screen the save button will persist the new set.",
+        "back": "Pressing the return button on the top left will not save the new flashcard set."
+    },
+    {
+        "front": "In the new flashcard set screen \"mport URL:\" is the location on the internet of the file to be imported.",
+        "back": "Currently only \"https\" and file type of \".json\" is supported.  The json file to be imported must be formated correctly. A example json file correctly formatted is      { \"cards\": [\n    {\n        \"front\": \"Gives a placeholder name to a type that is used as part of a protocol\",\n        \"back\": \"associatedtype(typealias is sometimes used to declare the concrete type, but Swifts type inference doesn't require it)\"\n    },\n    {\n        \"front\": \"General-purose, flexible construct that becomes the building blocks of a program.\",\n        \"back\": \"Class\"\n    }\n]\n}"
+    },
+    {
+        "front": "A flashcard set can be edited and deleted.",
+        "back": "Swipe left on the  left side of the set record to bring up the edit and delete buttons."
+    },
+    {
+        "front": "Selecting the set record will bring up the card screen.",
+        "back": "The card screen has the functionality to add, edit, and delete flashcards.  The tab menu has 3 buttons.  Start, ReSet and Import"
+    }
+]
+}
