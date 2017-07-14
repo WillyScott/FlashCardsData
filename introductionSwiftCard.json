@@ -5,7 +5,7 @@
     },
     {
         "front": "A flashcard set is created by pressing the \"+\" in the main screen navigation bar.",
-        "back": "\"Set Name:\" and \"Set Description.\" are required fields. Set name must be a unique."
+        "back": "\"Set Name:\" and \"Set Description.\" are required fields. Set name must be a unique.  The \"Import URL\" is set to the introduction cards on GitHub.com."
     },
     {
         "front": "In the new flashcard set screen the save button will persist the new set.",
