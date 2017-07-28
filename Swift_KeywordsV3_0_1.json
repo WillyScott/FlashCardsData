@@ -1,18 +1,18 @@
-{ "cards": [
+{ "cards":[
     {
-        "front": "Gives a placeholder name to a type that is used as part of a protocol.",
+        "front": "Gives a placeholder\" name to a type that is used as part of a protocol.",
         "back": "associatedtype ( keyword typealias is sometimes used to declare the concrete type, but Swifts type inference doesn't require it)"
     },
     {
-        "front": "General-pupose, flexible construct that becomes the building blocks of a program. With features like inheritance, type casting, deinitializers, and reference counting.",
+        "front": "General-purpose, flexible construct that becomes the building blocks of a program. With features like inheritance, type casting, deinitializers, and reference counting.",
         "back": "Class"
     },
     {
-        "front": "called immediately before a class instance is deallocated.",
+        "front": "Called immediately before a class instance is deallocated.",
         "back": "deinit"
     },
     {
-        "front": "common type for a group of related values, enables type safe, first-class type, with features typically supported only by classes in other languages.",
+        "front": "Common type for a group of related values, enables type safe, first-class type, with features typically supported only by classes in other languages.",
         "back": "enum"
     },
     {
@@ -24,7 +24,7 @@
         "back": "fileprivate"
     },
     {
-        "front": "Self-contained chunck of code that perform a specitic task.",
+        "front": "Self-contained chunk of code that perform a specitic task.",
         "back": "func"
     },
     {
@@ -68,11 +68,11 @@
         "back": "public"
     },
     {
-        "front": "Defines methods or  that are called on the type itself.",
+        "front": "Defines methods that are called on the type itself.",
         "back": "static"
     },
     {
-        "front": "General-purpose flexible contruct that becomes the building blocks of your program code and can provide member wise initializers. Passed by value  and not reference and dont use reference counting.",
+        "front": "General-purpose flexible contruct that becomes the building blocks of your program code and can provide member wise initializers. Passed by value and not reference and doesn't use reference counting.",
         "back": "struct"
     },
     {
@@ -84,7 +84,7 @@
         "back": "typealias"
     },
     {
-        "front": "Defines a variable a mutable variable.",
+        "front": "Defines a variable as a mutable variable.",
         "back": "var"
     },
     {
@@ -97,7 +97,7 @@
     },
     {
         "front": "Ends program execution of current iteration of a loop statement but does not stop execution of loop.",
-        "back": "continue (need example ?)"
+        "back": "continue"
     },
     {
         "front": "Used to cover any values that are not addressed explicitly in a case.",
@@ -112,11 +112,11 @@
         "back": "do"
     },
     {
-        "front": "Used in conjunction with and if statement. Executes one part of code when the condition is true and another part of code when the same conditoin is false.",
+        "front": "Used in conjunction with a \"if\" statement. Executes one part of code when the condition is true and another part of code when the same conditoin is false.",
         "back": "else"
     },
     {
-        "front": "Explicitly allows execution to continue frmo one case to the next in a switch statement.",
+        "front": "Explicitly allows execution to continue from one case to the next in a switch statement.",
         "back": "fallthrough"
     },
     {
@@ -136,7 +136,7 @@
         "back": "in"
     },
     {
-        "front": "Performs a single pass through the loop block first, before considering hte loop's conditioin.",
+        "front": "Performs a single pass through the loop block first, before considering the loop's conditioin.",
         "back": "repeat"
     },
     {
@@ -144,11 +144,11 @@
         "back": "return"
     },
     {
-        "front": "Considereds a value and compares it against serveral possibel matching patterns. Used with case keyword.",
+        "front": "Considers a value and compares it against serveral possibel matching patterns. Used with case keyword.",
         "back": "switch"
     },
     {
-        "front": "Requires that an associated type must conform to a certain protocol, or that certain type parameters and associated types must be the same, or that a addtional conditoin within a pattern in cases that are condidered to be matched to the control expression.",
+        "front": "Requires that an associated type must conform to a certain protocol, or that certain type parameters and associated types must be the same, or that a addtional condition within a pattern in cases that are condidered to be matched to the control expression.",
         "back": "where"
     },
     {
@@ -161,7 +161,7 @@
     },
     {
         "front": "A type cast operator used to attempt to cast a value to a different, or an expected and specific tye.",
-        "back": "as "
+        "back": "as , as! , as?"
     },
     {
         "front": "If a error is thrown by code in a do clause, its matched against a catch clause to determine how the error is handled.",
@@ -180,7 +180,7 @@
         "back": "nil"
     },
     {
-        "front": "Indicates that the function throws ansd error only if one of its parameters throws an error.",
+        "front": "Indicates that the function throws an error only if one of its parameters throws an error.",
         "back": "rethrows"
     },
     {
@@ -276,7 +276,7 @@
         "back": "associativity"
     },
     {
-        "front": "Secondary, supporting initializers for a class that eventually delegete initializatin of the instance to a designate initializer.",
+        "front": "Secondary, supporting initializers for a class that eventually delegate initialization of the instance to a designate initializer.",
         "back": "convenience"
     },
     {
@@ -320,7 +320,7 @@
         "back": "none"
     },
     {
-        "front": "Indicates that a member;s setter doesn;t modify the containing instance, but rather has other intended consequences.",
+        "front": "Indicates that a members setter doesn't modify the containing instance, but rather has other intended consequences.",
         "back": "nonmutating"
     },
     {
@@ -328,7 +328,7 @@
         "back": "optional"
     },
     {
-        "front": "Indicated that a subclass will provide its own custum implementaton of an instance method, type method, instance property, type property, or subscript that is would otherwise inherit from a superclass.",
+        "front": "Indicated that a subclass will provide its own custom implementaton of an instance method, type method, instance property, type property, or subscript that is would otherwise inherit from a superclass.",
         "back": "override"
     },
     {
