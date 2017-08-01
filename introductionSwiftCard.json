@@ -32,8 +32,8 @@
         "back": "Selecting Edit will bring up the selected card to be edited.  Save must be selected to persist the card edits, selecting the return arrow will not persist the changes made. Selecting Delete will delete the record."
     },
     {
-        "front": "There are 3 buttons on the bottom of the tab bar.",
-        "back": "Start - starts the flash cards session, ReSet sets the show field back to True, Import imports cards into the set if the Import field is in the Set."
+        "front": "There are 4 buttons on the bottom of the tab bar.",
+        "back": "Start - starts the flash cards session, ReSet - sets the show field back to True, Import- imports cards into the set if the Import field is in the Set, Exportcsv - exports the cards in .cvs format."
     },
     {
         "front": "Select \"Start\" to start the flashcard session.  Tap the screen to see the back of the card.  After reviewing the back of the card swipe left to go to the next card.",
