@@ -12,7 +12,7 @@
         "back": "Pressing the return button on the top left will not save the new flashcard set."
     },
     {
-        "front": "In the new flashcard set screen \"mport URL:\" is the location on the internet of the file to be imported.",
+        "front": "In the new flashcard set screen \"import URL:\" is the location on the internet of the file to be imported.",
         "back": "Currently only \"https\" and file type of \".json\" is supported.  The json file to be imported must be formated correctly. A example json file correctly formatted is      { \"cards\": [\n    {\n        \"front\": \"Gives a placeholder name to a type that is used as part of a protocol\",\n        \"back\": \"associatedtype(typealias is sometimes used to declare the concrete type, but Swifts type inference doesn't require it)\"\n    },\n    {\n        \"front\": \"General-purose, flexible construct that becomes the building blocks of a program.\",\n        \"back\": \"Class\"\n    }\n]\n}"
     },
     {
