@@ -1,4 +1,5 @@
 { "cards":   [
+    {
         "front": "Ordered collection of values",
         "back": "Array"
     },
