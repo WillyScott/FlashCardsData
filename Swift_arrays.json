@@ -1,0 +1,54 @@
+[ "cards":[    {
+        "front": "Ordered collection of values",
+        "back": "Array"
+    },
+    {
+        "front": "Collection Type",
+        "back": "Array"
+    },
+    {
+        "front": "Arrays index start from number",
+        "back": 0
+    },
+    {
+        "front": "Array can store what types.",
+        "back": "Any, objects and nonobjects"
+    },
+    {
+        "front": "var nameIs: Array<String>",
+        "back": "Variable array of strings"
+    },
+    {
+        "front": "var nameIs:  [String]",
+        "back": "Variable array of strings"
+    },
+    {
+        "front": "Type inference variable array of strings",
+        "back": "var nameIs = [\"to\"]"
+    },
+    {
+        "front": "Adding to a Array.",
+        "back": ".append(_;)"
+    },
+    {
+        "front": "Removing and Array item.",
+        "back": ".removeAtIndex(_;)"
+    },
+    {
+        "front": "Count of Array items.",
+        "back": ".count"
+    },
+    {
+        "front": "Array equality",
+        "back": " checked with =="
+    },
+    {
+        "front": "Initializer for variable array empty Integer named test.",
+        "back": "var test = [Int]()"
+    },
+    {
+        "front": "Iterate over all array values in array list.",
+        "back": "for item in list { }"
+    }
+    ]
+]
