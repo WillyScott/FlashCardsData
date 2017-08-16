@@ -1,0 +1,106 @@
+{ "cards":[
+    {
+        "front": "Command to display what version of git is installed",
+        "back": "git --version"
+    },
+    {
+        "front": "Command to display where git is installed.",
+        "back": "which git"
+    },
+    {
+        "front": "Steps to clone a github repository to desktop on Mac.",
+        "back": "cd desktop\non Github.com select \"Clone or download\"\nSelect copy to clipboard https\non cmd line git clone https://"
+    },
+    {
+        "front": "Cmd to navigate in child directory",
+        "back": "cd NameOfDirectory"
+    },
+    {
+        "front": "Cmd to list contents of directory.",
+        "back": "ls"
+    },
+    {
+        "front": "Cmd to show a list of most recent commits.",
+        "back": "git log\nescape by perssing 'q'"
+    },
+    {
+        "front": "Steps to fork and clone github repository.",
+        "back": "select fork on github repository\nselect forked copy https://.."
+    },
+    {
+        "front": "Pull request need to be ",
+        "back": "forked first"
+    },
+    {
+        "front": "Cmd to move up a directory",
+        "back": "cd .."
+    },
+    {
+        "front": "Cmd to remove a directory",
+        "back": "rm -rf  DirectoryToRemove"
+    },
+    {
+        "front": "Confirm clone is a fork",
+        "back": "git remote -v"
+    },
+    {
+        "front": " Cmd to clear screen",
+        "back": "clear"
+    },
+    {
+        "front": "Create a repository",
+        "back": "mkdir NewDirectory\ncd NewDirectory\ngit init"
+    },
+    {
+        "front": "Cmd to list contents of directory including hidden files",
+        "back": "ls -la"
+    },
+    {
+        "front": "Find the status of new files , files to be commited to repository",
+        "back": "git status"
+    },
+    {
+        "front": "2 files that shoud be added to new respositories.",
+        "back": "readme and license"
+    },
+    {
+        "front": "Web site to find license information",
+        "back": "choosealicense.com"
+    },
+    {
+        "front": "Git configuration file",
+        "back": "git config --list"
+    },
+    {
+        "front": "Git adding a file to be commit",
+        "back": "git add <file>"
+    },
+    {
+        "front": "VIM editor to save and escape",
+        "back": "escape : wq"
+    },
+    {
+        "front": "Commiting files after git add",
+        "back": "git commit\nopens defaut editor, save and commit"
+    },
+    {
+        "front": "Git command to list commits.",
+        "back": "git log "
+    },
+    {
+        "front": "Git configuration options",
+        "back": "git config --list"
+    },
+    {
+        "back": "git config user.name \"YourUserName\""
+    },
+    {
+        "front": "Git configurations local or global",
+        "back": "git config --local or --global --list"
+    },
+    {
+        "front": "Git readme files",
+        "back": "README.md"
+    }
+]
+}
