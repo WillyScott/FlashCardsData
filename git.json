@@ -21,7 +21,15 @@
     },
     {
         "front": "Cmd to show a list of most recent commits.",
-        "back": "git log\nescape by perssing 'q'"
+        "back": "git log( uses less)\nescape by pressing 'q'"
+    },
+    {
+        "front": "Create a file with VIM",
+        "back": "vim filename"
+    },
+    {
+        "front": "To insert text into a VIM editing session",
+        "back": "Shift-Insert."
     },
     {
         "front": "Steps to fork and clone github repository.",
@@ -36,7 +44,7 @@
         "back": "cd .."
     },
     {
-        "front": "Cmd to remove a directory",
+        "front": "Cmd to remove a directory,  that isn't empty.",
         "back": "rm -rf  DirectoryToRemove"
     },
     {
@@ -76,12 +84,20 @@
         "back": "git add <file>"
     },
     {
+        "front": "Git command to add all files.",
+        "back": "git add ."
+    },
+    {
         "front": "VIM editor to save and escape",
         "back": "escape : wq"
     },
     {
         "front": "Commiting files after git add",
         "back": "git commit\nopens defaut editor, save and commit"
+    },
+    {
+        "front": "Git command to commit with a message.",
+        "back": "git commit -m \"message here\""
     },
     {
         "front": "Git command to list commits.",
@@ -101,6 +117,38 @@
     {
         "front": "Git readme files",
         "back": "README.md"
+    },
+    {
+        "front": "CMD to print file to screen",
+        "back": "cat <path/your_file>"
+    },
+    {
+        "front": "Hidden file that  shows this is a Github clone",
+        "back": ".git "
+    },
+    {
+        "front": "Shows if clone has a remote",
+        "back": "github remote -vv"
+    },
+    {
+        "front": "To add a local to a repository",
+        "back": "git remote add origin https//github.com......"
+    },
+    {
+        "front": "Adding a local to a repository",
+        "back": "git remote -vv\ngit remote add origin https//..\ngit push --set-upstream origin master"
+    },
+    {
+        "front": "Git command to see differences in files.",
+        "back": "git diff"
+    },
+    {
+        "front": "Git command to see diferences between commit",
+        "back": "git log -p"
+    },
+    {
+        "front": "Steps to add a directory because Git doesn't track directories only files",
+        "back": "mkdir   name\ntouch name/.keep\ngit add .\ngit commit -m \"comment to add\"\ngit status\ngit log"
     }
 ]
 }
