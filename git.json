@@ -1,15 +1,15 @@
 { "cards":[
     {
-        "front": "Command to display what version of git is installed",
+        "front": "Cmd to display what version of git is installed",
         "back": "git --version"
     },
     {
-        "front": "Command to display where git is installed.",
+        "front": "Cmd to display where git is installed.",
         "back": "which git"
     },
     {
         "front": "Steps to clone a github repository to desktop on Mac.",
-        "back": "cd desktop\non Github.com select \"Clone or download\"\nSelect copy to clipboard https\non cmd line git clone https://"
+        "back": "cd desktop\non Github.com select \"Clone or download\"\nSelect copy to clipboard https\non cmd line git clone https://to path"
     },
     {
         "front": "Cmd to navigate in child directory",
@@ -21,7 +21,7 @@
     },
     {
         "front": "Cmd to show a list of most recent commits.",
-        "back": "git log( uses less)\nescape by pressing 'q'"
+        "back": "git log( uses 'less' which is a program to display text)\nescape by pressing 'q'"
     },
     {
         "front": "Create a file with VIM",
@@ -89,7 +89,7 @@
     },
     {
         "front": "VIM editor to save and escape",
-        "back": "escape : wq"
+        "back": "escape key  \"wq"
     },
     {
         "front": "Commiting files after git add",
@@ -127,16 +127,47 @@
         "back": ".git "
     },
     {
-        "front": "Shows if clone has a remote",
-        "back": "github remote -vv"
+        "front": "List all remotes associated with current repo",
+        "back": "git remote -v"
+    },
+    {
+        "front": "What is a branch?",
+        "back": "A branch in Git is simply a lightweight movable pointer to one of these commits. The default branchname in Git is master. As you initially make commits, you're given a master branch that points to the last commit you made. Every time you commit, it moves forward automatically."
+    },
+    {
+        "front": "How is a branch created?",
+        "back": "A branch is created when you fork a repository."
+    },
+    {
+        "front": "List branches and remote branches being tracked.",
+        "back": "git  branch -vv"
+    },
+    {
+        "front": "Shows all branches local and remote",
+        "back": "git branch -vv -all"
+    },
+    {
+        "front": "Shows all commits.",
+        "back": "git log --oneline"
     },
     {
         "front": "To add a local to a repository",
-        "back": "git remote add origin https//github.com......"
+        "back": "git remote add origin "
     },
     {
-        "front": "Adding a local to a repository",
-        "back": "git remote -vv\ngit remote add origin https//..\ngit push --set-upstream origin master"
+        "front": "Adding a new extra remote to repo(not origin)",
+        "back": "git remote add \"anyname\"  https://github.com/.....\ngit remote -v (will show the anyname and path of remote, Still need to fetch)\ngit fetch anyname"
+    },
+    {
+        "back": "git log --oneline --decorate --all --graph"
+    },
+    {
+        "front": "To push local changes to origin (could be asked for id/password) -pushing.",
+        "back": "git push origin master"
+    },
+    {
+        "front": "Adding a local to a repository -pushing.",
+        "back": "git remote -vv\ngit remote add origin\ngit push --set-upstream origin master"
     },
     {
         "front": "Git command to see differences in files.",
