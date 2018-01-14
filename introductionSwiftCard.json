@@ -1,6 +1,6 @@
 {"cards":[
     {
-        "front": "Welcome to Swiftcard. The first screen to show on startup is a flash screen followed by a list of any sets. Tap to see the back of this card.After return to the cards swipe right to go forward.",
+        "front": "Welcome to flashcard app. The first screen to show on startup is a flash screen followed by a list of any sets. Tap to see the back of this card.After return to the cards swipe right to go forward.",
         "back": "If any sets exist their Name, description and count of flashcards that exist in the set will be displayed."
     },
     {
