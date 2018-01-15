@@ -1,0 +1,19 @@
+KotlinCard Help:
+
+Support site: https://swiftcard.wordpress.com
+Support site with flashcard data to download: 
+    https://github.com/WillyScott/FlashCardsData
+    https://github.com/WillyScott/AndroidProgramming3rd
+    https://github.com/WillyScott/FlashCardsKotlin
+    
+ To get a url to download navigate to one of the directories and select it.  Determine what flashcard data you want to load and select the data and then the raw button above it. Below is a example of a url that can be loaded.  Copy the URL in your browsers url field.
+    https://github.com/WillyScott/AndroidProgramming3rd/blob/master/ap7.json
+    
+
+About:
+
+KotlinCard is a simple flashcard app to learn Googles new programming language Kotlint.  Flashcards of all subjects can be created and loaded.  Very large data sets can be uploaded quickly.  The application is free to use and doesnt require the user to sign in.
+
+Using:
+
+KotlinCards comes with 2 default sets of flashcards, “Introduction to the application “and “Kotlin Keywords”.  Review the introduction to learn how to navigate the application.
