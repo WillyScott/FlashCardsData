@@ -1,0 +1,12 @@
+SwiftCards Help:
+
+Support site: https://swiftcard.wordpress.com
+Support site with flashcard data to download: https://github.com/WillyScott/FlashCardsData
+
+About:
+
+SwiftCards is a simple flashcard app to learn Apple’s new programming language Swift.  Flashcards of all subjects can be created and loaded.  Very large data sets can be uploaded quickly.  The application is free to use and doesnt require the user to sign in.
+
+Using:
+
+SwiftCards comes with 2 default sets of flashcards, “Introduction to the application “and “Swift Keywords”.  Review the introduction to learn how to navigate the application.
