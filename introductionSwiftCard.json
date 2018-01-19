@@ -42,6 +42,6 @@
     {
         "front": "If the card is know swipe up to mark the card as know.  Text displaying \"Know it!\" will be displayed on the card. Swiping down will remove \"Know it.\".",
         "back": "Cards marked \"Know it.\" will not be displayed the next time Swiftcards is played, but will remain in the current flashcard session."
-    }
+    },
 ]
 }
