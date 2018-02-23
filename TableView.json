@@ -1,0 +1,23 @@
+{ "cards": [
+    {
+        "front": "generic steps to add a TableView",
+        "back": "1. drag table view to view controller(vc), add constraints\n2. embed vc in navigation controller\n3. drag table view cell to vc, set style ,set identifer\n4. connect the datasource and delegete for the table view "
+    },
+    {
+        "front": "generic coding steps to add to vc to implement the table view.",
+        "back": "1. add a variable to store data that will be displayed\n2. initialize variable in viewDidLoad()\n3. extension vc with UITableViewDataSouce.\n4. implement tableView(_:numberOfRowsInSection:)\n5. implement tableView(_:forIndexPath)"
+    },
+    {
+        "front": "Styles of a table view (tv) cell.",
+        "back": " Built in - basic, left detail, right detail, subtitle and a custom."
+    },
+    {
+        "front": "Function on tableView that allows cells to be reused.",
+        "back": "dequeueReusableCell(withIdentifier identifier: String, for indexPath: IndexPath)"
+    },
+    {
+        "front": "Difference between UITableViewController and UITableView.",
+        "back": "UITableView allows for more than one table view to be displayed."
+    }
+]
+}
